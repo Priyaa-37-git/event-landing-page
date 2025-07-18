@@ -14,6 +14,6 @@ This is a simple and responsive **Event Landing Page** built with HTML, CSS, and
 ### 🛠️ Tech Stack
 
 - HTML5
-- 
+  
 ### 📂 Folder Structure
 
